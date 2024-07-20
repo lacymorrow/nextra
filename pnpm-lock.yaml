@@ -251,8 +251,8 @@ importers:
         specifier: ^1.0.0
         version: 1.1.2(typescript@5.3.3)
       '@theguild/remark-mermaid':
-        specifier: ^0.0.5
-        version: 0.0.5(react@18.2.0)
+        specifier: ^0.0.6
+        version: 0.0.6(react@18.2.0)
       '@theguild/remark-npm2yarn':
         specifier: 0.3.0
         version: 0.3.0
@@ -5192,8 +5192,8 @@ packages:
       react-dom: 18.2.0(react@18.2.0)
     dev: true
 
-  /@theguild/remark-mermaid@0.0.5(react@18.2.0):
-    resolution: {integrity: sha512-e+ZIyJkEv9jabI4m7q29wZtZv+2iwPGsXJ2d46Zi7e+QcFudiyuqhLhHG/3gX3ZEB+hxTch+fpItyMS8jwbIcw==}
+  /@theguild/remark-mermaid@0.0.6(react@18.2.0):
+    resolution: {integrity: sha512-WaOOaSz2tEmsE8SFL4WCiTRzwMlOIkKONnlc6DjKbqaJr+lVGlm0aWZAVTuvvVEebgmLzaFvmPUVf2M2GWwsJQ==}
     peerDependencies:
       react: ^18.2.0
     dependencies:
@@ -7363,7 +7363,6 @@ packages:
         optional: true
     dependencies:
       ms: 2.1.2
-    dev: true
 
   /decamelize-keys@1.1.0:
     resolution: {integrity: sha512-ocLWuYzRPoS9bfiSdDd3cxvrzovVMZnRDVEzAs+hWIVXGDbHxWMECij2OBuyB/An0FFW/nLuq6Kv1i/YC5Qfzg==}
@@ -10960,7 +10959,7 @@ packages:
     resolution: {integrity: sha512-ryTDy6UUunOXy2HPjelppgJ2sNfcPz1pLlMdA6Rz9jPzhLikWXv/irpWV/I2jd68Uhmny7hHxAlAhk4+vWggpg==}
     dependencies:
       '@types/debug': 4.1.7
-      debug: 4.3.4
+      debug: 4.3.5
       decode-named-character-reference: 1.0.2
       micromark-core-commonmark: 1.0.6
       micromark-factory-space: 1.0.0
@@ -14857,7 +14856,7 @@ packages:
       '@mdx-js/react': 3.0.1(@types/react@18.3.3)(react@18.2.0)
       '@napi-rs/simple-git': 0.1.9
       '@shikijs/twoslash': 1.1.2(typescript@5.3.3)
-      '@theguild/remark-mermaid': 0.0.5(react@18.2.0)
+      '@theguild/remark-mermaid': 0.0.6(react@18.2.0)
       '@theguild/remark-npm2yarn': 0.3.0
       better-react-mathjax: 2.0.3(react@18.2.0)
       clsx: 2.0.0
